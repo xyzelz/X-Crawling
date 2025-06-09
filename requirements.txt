@@ -1,0 +1,4 @@
+pandas
+snscrape
+Sastrawi
+nltk
